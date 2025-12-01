@@ -982,6 +982,44 @@
 [2606:4700:8dd7:d5c2:2467:a7d6:fcd3:73fd]:443#新加坡
 [2606:4700:9b0e:f112:90b5:103:342b:4a47]:443#新加坡
 [2606:4700:9b0f:fafc:eb72:b7f4:145b:8e56]:443#新加坡
+81994868.xyz:8443#US
+710703.xyz:8443#US
+gjxtt.dpdns.org:8443#US
+ggyt.dpdns.org:8443#US
+jybb.dpdns.org:8443#US
+whl52.dpdns.org:8443#US
+zli.de5.net:8443#US
+wt520.us.ci:8443#US
+yt520.de5.net:8443#US
+tt520.us.ci:8443#US
+tt520.de5.net:8443#US
+gxwt.us.ci:8443#US
+gxwyt.de5.net:8443#US
+gxwtt.us.ci:8443#US
+wt20.us.ci:8443#US
+gxwt.de5.net:8443#US
+ytw.de5.net:8443#US
+lvtt.us.ci:8443#US
+jyg.de5.net:8443#US
+whl.us.ci:8443#US
+gjx.de5.net:8443#US
+wyt52.us.ci:8443#US
+wytx.de5.net:8443#US
+xxtt.us.ci:8443#US
+xxyt.de5.net:8443#US
+wytj.us.ci:8443#US
+yiming.de5.net:8443#US
+ytjx.us.ci:8443#US
+wyt.de5.net:8443#US
+wytjx.us.ci:8443#US
+gjy.de5.net:8443#US
+lvwt.de5.net:8443#US
+yyg.de5.net:8443#US
+hlw.us.ci:8443#US
+wytt.us.ci:8443#US
+ttw.us.ci:8443#US
+b.a.7.9.a.0.d.0.0.1.0.a.2.ip6.arpa:8443#US
+a.7.9.a.0.d.0.0.1.0.a.2.ip6.arpa:8443#US
 
 
 
