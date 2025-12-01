@@ -36,6 +36,21 @@ wytt.us.ci:8443#US
 ttw.us.ci:8443#US
 b.a.7.9.a.0.d.0.0.1.0.a.2.ip6.arpa:8443#US
 a.7.9.a.0.d.0.0.1.0.a.2.ip6.arpa:8443#US
+gxyt.dpdns.org:8443#US
+ytgx52.dpdns.org:8443#US
+wtjx20.dpdns.org:8443#US
+jybb.dpdns.org:8443#US
+jygbb.dpdns.org:8443#US
+whl52.dpdns.org:8443#US
+gjxwl.dpdns.org:8443#US
+whlgjx.dpdns.org:8443#US
+jasbro.dpdns.org:8443#US
+wyt20.dpdns.org:8443#US
+browt.dpdns.org:8443#US
+ytwx.dpdns.org:8443#US
+gjxtt.dpdns.org:8443#US
+wtgjx.dpdns.org:8443#US
+ggyt.dpdns.org:8443#US
 
 
 
